@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Open Sans", sans-serif;
+}
+/***********************NAV************************/
+nav {
+	position: relative;
+	background-color: white;
+	box-shadow: 0 20px 20px -20px black;
+	height: 50px;
+	border-left: 20px solid darkred;
+	border-bottom: 2px solid darkred;
+}
+nav >span:nth-child(1)>img {
+	width: 300px;
+	height: 20px;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+nav >span:nth-child(2) {
+	position: absolute;
+	right: 2%;
+}
+a {
+	text-decoration: none;
+	color: black;
+	font-size: 25px;
+	margin-left: 50px;
+}
+a:hover {
+	border-bottom: 2px solid darkred;
+}
+/***********************CONTACT************************/
+#contact {
+	text-align: center;
+}
+form > input[type="text"] {
+	width: 400px;
+	height: 30px;
+	font-size: 16px;
+	padding-left: 10px;
+	outline-color: silver;
+	margin-bottom: 10px;
+}
+form > input[type="text"]:hover {
+	border-bottom: 2px solid darkred;
+}
+form > textarea {
+	width: 400px;
+	height: 120px;
+	font-size: 16px;
+	padding-left: 10px;
+	outline-color: silver;
+	margin-bottom: 10px;
+	font-family: "Open Sans", sans-serif;
+}
+form > textarea:hover {
+	border-bottom: 2px solid darkred;
+}
+form > input[type="submit"], input[type="reset"], input[type="button"] {
+	background-color: darkred;
+	width:100px;
+	height: 30px;
+	color: white;
+	border: none;
+	cursor: pointer;
+	transition: 0.3s;
+}
+form > input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover {
+	font-size: 20px;
+}
+#warning {
+	text-align: center;
+	font-weight: bold;
+}

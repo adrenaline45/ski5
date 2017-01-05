@@ -1,0 +1,27 @@
+[{
+  "image": "img1.png",
+  "model": "Dell XPS 13 9350",
+  "rating": 4,
+  "date": "15 December 15",
+  "price": "£849",
+  "description":"The Dell XPS 13 is a 13.3in-screen laptop with a virtually borderless display and is a shining beacon of hope in the world of Windows laptops. The XPS 13 takes precision-machined alloy for both top and bottom sections, carbon-fibre composite across the middle section, and is finished with a smooth rubbery coat that feels more organic to the touch. Here is a 13.3in laptop that takes up little more space than an 11.6in model.\r\nCore hardware includes an Intel Core i5-6200U Skylake processor, 4GB of LPDDR3 RAM and a 128GB SSD. A couple of USB 3.0 ports are combined with Thunderbolt 3 (which supports USB-C), Mini-DisplayPort and an SDXC card slot. It weighs in at 1.3kg and has a 52Wh battery. The new 9350 model adds a non-touchscreen full HD option to the range, and means prices are now more affordable.\r\nThe XPS 13 is a fast mover, and potentially too fast given the limited cooling strategies available within such a thin chassis. Still, if you\u2019re not troubled by fan noise, this ultraportable performed very well in our benchmarks.\r\nThe screen also performs well, with excellent contrast ratio but limited brightness for outdoor use. The SSD hit sequential read- and write speeds of 493- and 238MB\/s respectively, and we recorded 6 hours 12 minutes in our battery life test.",
+  "video": "video1"
+},
+{
+  "image": "img2.jpg",
+  "model": "Lenovo Yoga 710 11",
+  "rating": 4.5,
+  "date": "9 August 16",
+  "price": "£549",
+  "description":"The Lenovo Yoga 710 wants to offer the best, most convenient ultraportable laptop experience you can get without spending a scary amount of money. It has a 360-degree hinge and a touchscreen, which makes is a fun machine for use while travelling around.\r\nYou wouldn\u2019t want to go any smaller for all-day work tasks, but there is also a larger 14in version of this laptop if you think the 11.6in Yoga 710 will prove too small. For what it\u2019s worth, Lenovo has nailed the display, glossy, sharp, bright enough for outdoor use, covered in toughened glass and jet black when switched off.\r\nCore hardware includes an Intel Core M3-6Y30 processor, 8GB of DDR3 RAM and a 128GB SSD. You get a single USB 3.0 port, plus micro HDMI, but no microSD slot for storage expansion. There are stereo speakers, a nice tiled keyboard with two-button trackpad that is mostly comfortable to type on, and this 1.06kg laptop runs on a 40Wh battery.\r\nIt\u2019s not the fastest Windows laptop, but sufficient for everyday tasks that don\u2019t include gaming. It\u2019s silent in use, with respectable audio and long battery life - 9 hours 45 minutes in our tests. Lenovo\u2019s Yoga 710 is one of the best Windows alternatives to the 12in MacBook.",
+  "video": "video2"
+},
+{
+  "image": "img3.jpg",
+  "model": "Asus ZenBook UX310UA",
+  "rating": 4.5,
+  "date": "6 October 16",
+  "price": "£699",
+  "description":"The Asus ZenBook UX310A is an ideal mid-range ultraportable laptop. It is what happens when a practical everyday laptop and an expensive all-aluminium Ultrabook fall in love, bringing you the pricey look and feel of a portable, stylish machine with the features of a workhorse and a price way below that of a rival MacBook.\r\nCore hardware includes a Core i5-6200U CPU, 8GB of DDR4 RAM and both a 128GB SSD and a 500GB HDD. There\u2019s a single USB 3.0 port and two USB 2.0, plus USB-C, HDMI and SDXC. The Asus sports (albeit so-so) Harman Kardon stereo speakers, and with its 48Wh battery weighs in at 1.45kg. A cheaper version has the Core i3, 4GB of RAM and a lower-res display.\r\nThe 13.3in screen is a highlight, with unbelievable sharpness (276ppi) and colour saturation at this price, and this matt screen excels in outdoor use. It\u2019s paired with a scissor-mechanism keyboard with backlight and a large, comfortable trackpad.\r\nThe ZenBook is not perfect - we\u2019d like the display to tilt back further, the shell displays some flexing, and it\u2019s a tad chunky thanks to the HDD inside - but it scored well on performance, provided you avoid intensive gaming. Battery life is solid, at 8 hours 10 minutes.\r\nYou can\u2019t have it all at this price, but the ZenBook gets close.",
+  "video": "video3"
+}]

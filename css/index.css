@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Open Sans", sans-serif;
+}
+/***********************NAV************************/
+nav {
+	position: relative;
+	background-color: white;
+	box-shadow: 0 20px 20px -20px black;
+	height: 50px;
+	border-left: 20px solid darkred;
+	border-bottom: 2px solid darkred;
+}
+nav >span:nth-child(1)>img {
+	width: 300px;
+	height: 20px;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+nav >span:nth-child(2) {
+	position: absolute;
+	right: 2%;
+}
+a {
+	text-decoration: none;
+	color: black;
+	font-size: 25px;
+	margin-left: 50px;
+}
+a:hover {
+	border-bottom: 2px solid darkred;
+}
+/***********************IMAGES************************/
+.details {
+	font-size: 12px;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 50px;
+}
+.images {
+	width: 300px;
+	height: 200px;
+	transition: 1s;
+}
+.images:hover {
+	transform: scale(1.5);
+}
+#section {
+	text-align: center;
+	height: 214px;
+	overflow: auto;
+}
+#section > div {
+	display: inline-block;
+	border-top: 4px solid white;
+	overflow: hidden;
+
+}
+/***********************DESCRIPTION************************/
+#description {
+	text-align: center;
+	margin-top: 50px;
+}
+@keyframes show {
+	0%{margin-top: 100vh;}
+	100%{margin-top: 50px;}
+}
+#description-text {
+	overflow-y: auto;
+	width: 100%;
+	box-shadow: 0 -20px 20px -20px black;
+	margin-top: 50px;
+}
+#description-text p {
+	padding: 20px;
+}
+
+#button {
+	cursor: pointer;
+	color: blue;
+	display: none;
+}
+
